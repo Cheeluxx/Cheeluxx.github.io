@@ -1,0 +1,7 @@
+
+/*B M A R K style*/
+
+div p :hover { background: black; color: white !important; }
+
+.with_hover:hover { font-color: yellow; color: white !important;   }
+.with_hover:visited { color: black; text-decoration:none}
